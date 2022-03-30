@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 from torch.utils.data import Dataset, DataLoader
 
 LR = 0.0001
-EPOCH = 10
-TRAIN_END = 3000
+EPOCH = 100
+TRAIN_END = 3200
 DAYS_BEFORE = 30
 TOTAL_SIZE = 3457
 
